@@ -1,0 +1,2207 @@
+// 20220913132226
+// https://www.bestbuy.ca/api/v2/json/search?categoryid=474835&currentRegion=QC&include=facets%2C%20redirects&lang=fr-CA&page=1&pageSize=24&path=&query=&exp=labels%2Cb&sortBy=relevance&sortDir=desc
+
+{
+    "currentPage": 1,
+    "total": 624,
+    "totalPages": 26,
+    "pageSize": 24,
+    "products": [
+      {
+        "sku": "14763270",
+        "name": "Moniteur de jeu incurvé DEL HD int. VA FreeSync GTG 1 ms 165 Hz 31,5 po Acer (ED320QR Sbiipx) - Noir",
+        "shortDescription": "Branchez votre équipement de jeu à ce moniteur de jeu de 31,5 po d'Acer pour profiter d'une expérience de jeu immersive. Doté d'un écran incurvé élégant de 31,5 po avec résolution HD intégrale de 1920 x 1080, il offre des images exceptionnelles et un vaste champ de vision. Il est également doté d'une technologie d'affichage spéciale pour réduire la fatigue oculaire pendant les longues séances de jeu.",
+        "customerRating": 3.94,
+        "customerRatingCount": 67,
+        "customerReviewCount": 67,
+        "productUrl": "/fr-ca/produit/moniteur-de-jeu-incurve-del-hd-int-va-freesync-gtg-1-ms-165-hz-31-5-po-acer-ed320qr-sbiipx-noir/14763270",
+        "currentRegion": null,
+        "hideSavings": true,
+        "hideSaleEndDate": true,
+        "productType": null,
+        "regularPrice": 399.99,
+        "salePrice": 399.99,
+        "saleEndDate": null,
+        "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/147/14763/14763270.jpg",
+        "primaryParentCategoryId": null,
+        "categoryName": "Moniteurs de jeu",
+        "ehf": 6.0,
+        "seoText": "moniteur-de-jeu-incurve-del-hd-int-va-freesync-gtg-1-ms-165-hz-31-5-po-acer-ed320qr-sbiipx-noir",
+        "sellerId": null,
+        "seller": null,
+        "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/147/14763/14763270.jpg",
+        "altLangSeoText": null,
+        "offerId": null,
+        "priceUnit": "",
+        "requiresAgeVerification": false,
+        "isPriceEndsLabel": false,
+        "hasPromotion": false,
+        "isAdvertised": false,
+        "isClearance": false,
+        "isInStoreOnly": false,
+        "isOnlineOnly": false,
+        "isVisible": true,
+        "isPreorderable": false,
+        "isFrenchCompliant": true,
+        "isMarketplace": false,
+        "hasFrenchContent": false,
+        "categoryIds": [
+          "20001",
+          "20367",
+          "474835"
+        ]
+      },
+      {
+        "sku": "14628303",
+        "name": "Moniteur jeu DEL incurvé VA HD int. GTG 4 ms FreeSync 75 Hz 32 po Samsung (LC32T550FDNXZA)-Bleu/Gris",
+        "shortDescription": "Rehaussez votre expérience de jeu avec le moniteur de jeu incurvé de 32 po de Samsung. Il est doté d'une résolution HD intégrale 1080p avec un écran incurvé 1000R doté de la technologie antiscintillement Anti-Flicker et d'un mode de protection des yeux pour réduire la fatigue oculaire. La technologie FreeSync d'AMD et le temps de réponse de 4 ms minimisent les traînées, le flou et le décalage de l'image dans les séquences de jeu rapides.",
+        "customerRating": 4.36,
+        "customerRatingCount": 324,
+        "customerReviewCount": 324,
+        "productUrl": "/fr-ca/produit/moniteur-jeu-del-incurve-va-hd-int-gtg-4-ms-freesync-75-hz-32-po-samsung-lc32t550fdnxza-bleu-gris/14628303",
+        "currentRegion": null,
+        "hideSavings": false,
+        "hideSaleEndDate": false,
+        "productType": null,
+        "regularPrice": 329.99,
+        "salePrice": 249.99,
+        "saleEndDate": 1663311599000,
+        "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/146/14628/14628303.jpg",
+        "primaryParentCategoryId": null,
+        "categoryName": "Moniteurs de jeu",
+        "ehf": 6.0,
+        "seoText": "moniteur-jeu-del-incurve-va-hd-int-gtg-4-ms-freesync-75-hz-32-po-samsung-lc32t550fdnxza-bleu-gris",
+        "sellerId": null,
+        "seller": null,
+        "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/146/14628/14628303.jpg",
+        "altLangSeoText": null,
+        "offerId": null,
+        "priceUnit": "",
+        "requiresAgeVerification": false,
+        "isPriceEndsLabel": false,
+        "hasPromotion": true,
+        "isAdvertised": false,
+        "isClearance": false,
+        "isInStoreOnly": false,
+        "isOnlineOnly": false,
+        "isVisible": true,
+        "isPreorderable": false,
+        "isFrenchCompliant": true,
+        "isMarketplace": false,
+        "hasFrenchContent": false,
+        "categoryIds": [
+          "20001",
+          "20367",
+          "474835"
+        ]
+      },
+      {
+        "sku": "16233319",
+        "name": "Moniteur de jeu HD intégrale ACL VA IPS FreeSync 60 Hz 5 ms gris à gris 22 po de LG (22MP44B-C) - Gris anthracite",
+        "shortDescription": "Profitez de vos jeux préférés avec la performance visuelle incroyable offerte par le moniteur de jeu HD intégrale de 22 po de LG. Doté d'une dalle VA de 22 po avec résolution HD intégrale, il représente chaque scène avec des couleurs vives et des détails clairs et nets. Ce moniteur offre aussi des angles de visionnement larges de 178 degrés qui assurent visibilité et clarté, d'où que vous le regardez.",
+        "customerRating": 4.67,
+        "customerRatingCount": 3,
+        "customerReviewCount": 3,
+        "productUrl": "/fr-ca/produit/moniteur-de-jeu-hd-integrale-acl-va-ips-freesync-60-hz-5-ms-gris-a-gris-22-po-de-lg-22mp44b-c-gris-anthracite/16233319",
+        "currentRegion": null,
+        "hideSavings": true,
+        "hideSaleEndDate": true,
+        "productType": null,
+        "regularPrice": 169.99,
+        "salePrice": 169.99,
+        "saleEndDate": null,
+        "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/162/16233/16233319.jpg",
+        "primaryParentCategoryId": null,
+        "categoryName": "Moniteurs de jeu",
+        "ehf": 4.0,
+        "seoText": "moniteur-de-jeu-hd-integrale-acl-va-ips-freesync-60-hz-5-ms-gris-a-gris-22-po-de-lg-22mp44b-c-gris-anthracite",
+        "sellerId": null,
+        "seller": null,
+        "highResImage": "https://multimedia.bbycastatic.ca/images/common/pictures/noimage1500x1500.jpg",
+        "altLangSeoText": null,
+        "offerId": null,
+        "priceUnit": "",
+        "requiresAgeVerification": false,
+        "isPriceEndsLabel": false,
+        "hasPromotion": false,
+        "isAdvertised": false,
+        "isClearance": false,
+        "isInStoreOnly": false,
+        "isOnlineOnly": false,
+        "isVisible": true,
+        "isPreorderable": false,
+        "isFrenchCompliant": true,
+        "isMarketplace": false,
+        "hasFrenchContent": false,
+        "categoryIds": [
+          "20001",
+          "20367",
+          "474835"
+        ]
+      },
+      {
+        "sku": "15732099",
+        "name": "Moniteur de jeu DEL HD intégrale AV GTG 1 ms 165 Hz 23,8 po d’Acer (QG241Y PBMIIPX) - Noir",
+        "shortDescription": "Plongez dans l'univers de vos jeux avec le moniteur de jeu DEL d’Acer. Son écran de 23,8 po en HD intégrale donne vie aux images avec une clarté à couper le souffle et des détails nets. La technologie Visual Response Boost vous fait profiter de scènes d'action ultrafluides et dépourvues de flou. Le filtre de lumière bleue aide à soulager la fatigue oculaire causée par une exposition prolongée, donc vous pourrez jouer plus longtemps.",
+        "customerRating": 4.64,
+        "customerRatingCount": 14,
+        "customerReviewCount": 14,
+        "productUrl": "/fr-ca/produit/moniteur-de-jeu-del-hd-integrale-av-gtg-1-ms-165-hz-23-8-po-d-acer-qg241y-pbmiipx-noir/15732099",
+        "currentRegion": null,
+        "hideSavings": true,
+        "hideSaleEndDate": true,
+        "productType": null,
+        "regularPrice": 279.99,
+        "salePrice": 279.99,
+        "saleEndDate": null,
+        "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/157/15732/15732099.jpg",
+        "primaryParentCategoryId": null,
+        "categoryName": "Moniteurs de jeu",
+        "ehf": 4.0,
+        "seoText": "moniteur-de-jeu-del-hd-integrale-av-gtg-1-ms-165-hz-23-8-po-d-acer-qg241y-pbmiipx-noir",
+        "sellerId": null,
+        "seller": null,
+        "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/157/15732/15732099.jpg",
+        "altLangSeoText": null,
+        "offerId": null,
+        "priceUnit": "",
+        "requiresAgeVerification": false,
+        "isPriceEndsLabel": false,
+        "hasPromotion": false,
+        "isAdvertised": false,
+        "isClearance": false,
+        "isInStoreOnly": false,
+        "isOnlineOnly": false,
+        "isVisible": true,
+        "isPreorderable": false,
+        "isFrenchCompliant": true,
+        "isMarketplace": false,
+        "hasFrenchContent": false,
+        "categoryIds": [
+          "20001",
+          "20367",
+          "474835"
+        ]
+      },
+      {
+        "sku": "15963024",
+        "name": "Moniteur FreeSync ACL VA FHD 165 Hz 24 po Odyssey G3 de Samsung/1 ms gris-gris (LS24AG320NNXZA)-Noir",
+        "shortDescription": "Plongez dans votre univers de jeu préféré avec le moniteur de jeu FreeSync Odyssey G3 de 24 po de Samsung. Doté d'un écran HD intégrale de 24 po, d'un temps de réponse de 1 ms gris à gris et d'un taux de rafraîchissement de 165 Hz, ce moniteur de jeu affiche des images sans décalage et assure une grande réactivité avec des fréquences d'images fluides et une compensation à faible débit d'images pour une transition impeccable et une expérience de jeu confortable.",
+        "customerRating": 5.0,
+        "customerRatingCount": 16,
+        "customerReviewCount": 16,
+        "productUrl": "/fr-ca/produit/moniteur-freesync-acl-va-fhd-165-hz-24-po-odyssey-g3-de-samsung-1-ms-gris-gris-ls24ag320nnxza-noir/15963024",
+        "currentRegion": null,
+        "hideSavings": false,
+        "hideSaleEndDate": false,
+        "productType": null,
+        "regularPrice": 379.99,
+        "salePrice": 199.99,
+        "saleEndDate": 1663311599000,
+        "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/159/15963/15963024.jpg",
+        "primaryParentCategoryId": null,
+        "categoryName": "Moniteurs de jeu",
+        "ehf": 4.0,
+        "seoText": "moniteur-freesync-acl-va-fhd-165-hz-24-po-odyssey-g3-de-samsung-1-ms-gris-gris-ls24ag320nnxza-noir",
+        "sellerId": null,
+        "seller": null,
+        "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/159/15963/15963024.jpg",
+        "altLangSeoText": null,
+        "offerId": null,
+        "priceUnit": "",
+        "requiresAgeVerification": false,
+        "isPriceEndsLabel": false,
+        "hasPromotion": true,
+        "isAdvertised": false,
+        "isClearance": false,
+        "isInStoreOnly": false,
+        "isOnlineOnly": false,
+        "isVisible": true,
+        "isPreorderable": false,
+        "isFrenchCompliant": true,
+        "isMarketplace": false,
+        "hasFrenchContent": false,
+        "categoryIds": [
+          "20001",
+          "20367",
+          "474835"
+        ]
+      },
+      {
+        "sku": "14933347",
+        "name": "Moniteur jeu FreeSync DEL IPS FHD 75 Hz 24 po de Samsung/5 ms GTG (LF24T350FHNXZA) - Gris-bleu foncé",
+        "shortDescription": "Que ce soit pour travailler, jouer ou vous divertir, vous profiterez d'images et de scènes claires, lumineuses et réalistes à tout coup sur ce moniteur de jeu de 24 po de Samsung. Avec sa résolution HD intégrale et ses angles de visionnement très larges, il vous permet de plonger facilement dans l'action. Sa technologie FreeSync réduit le déchirement d'image pour des mouvements fluides.",
+        "customerRating": 4.63,
+        "customerRatingCount": 3396,
+        "customerReviewCount": 3396,
+        "productUrl": "/fr-ca/produit/moniteur-jeu-freesync-del-ips-fhd-75-hz-24-po-de-samsung-5-ms-gtg-lf24t350fhnxza-gris-bleu-fonce/14933347",
+        "currentRegion": null,
+        "hideSavings": false,
+        "hideSaleEndDate": false,
+        "productType": null,
+        "regularPrice": 199.99,
+        "salePrice": 169.99,
+        "saleEndDate": 1663311599000,
+        "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/149/14933/14933347.jpg",
+        "primaryParentCategoryId": null,
+        "categoryName": "Moniteurs de jeu",
+        "ehf": 4.0,
+        "seoText": "moniteur-jeu-freesync-del-ips-fhd-75-hz-24-po-de-samsung-5-ms-gtg-lf24t350fhnxza-gris-bleu-fonce",
+        "sellerId": null,
+        "seller": null,
+        "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/149/14933/14933347.jpg",
+        "altLangSeoText": null,
+        "offerId": null,
+        "priceUnit": "",
+        "requiresAgeVerification": false,
+        "isPriceEndsLabel": false,
+        "hasPromotion": true,
+        "isAdvertised": false,
+        "isClearance": false,
+        "isInStoreOnly": false,
+        "isOnlineOnly": false,
+        "isVisible": true,
+        "isPreorderable": false,
+        "isFrenchCompliant": true,
+        "isMarketplace": false,
+        "hasFrenchContent": false,
+        "categoryIds": [
+          "20001",
+          "20367",
+          "474835"
+        ]
+      },
+      {
+        "sku": "16235322",
+        "name": "Moniteur de jeu incurvé DEL HD intégrale FreeSync 1 ms gris à gris 165 Hz 27 po Acer (ED273 PBIIPX) - Noir",
+        "shortDescription": "Regardez vos films et vos émissions de télévision prendre vie sur cet incroyable écran de jeu incurvé de 27 po d'Acer. Doté d'une grande dalle DEL HD intégrale, il offre des images spectaculaires avec des noirs profonds et des couleurs éclatantes pour les jeux, les films et plus encore. Cet écran incurvé 16:9 remplit votre vision périphérique pour vous offrir une expérience de visionnement immersive.",
+        "customerRating": 3.0,
+        "customerRatingCount": 2,
+        "customerReviewCount": 2,
+        "productUrl": "/fr-ca/produit/moniteur-de-jeu-incurve-del-hd-integrale-freesync-1-ms-gris-a-gris-165-hz-27-po-acer-ed273-pbiipx-noir/16235322",
+        "currentRegion": null,
+        "hideSavings": false,
+        "hideSaleEndDate": false,
+        "productType": null,
+        "regularPrice": 279.99,
+        "salePrice": 209.99,
+        "saleEndDate": 1663311599000,
+        "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/162/16235/16235322.jpg",
+        "primaryParentCategoryId": null,
+        "categoryName": "Moniteurs de jeu",
+        "ehf": 4.0,
+        "seoText": "moniteur-de-jeu-incurve-del-hd-integrale-freesync-1-ms-gris-a-gris-165-hz-27-po-acer-ed273-pbiipx-noir",
+        "sellerId": null,
+        "seller": null,
+        "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/162/16235/16235322.jpg",
+        "altLangSeoText": null,
+        "offerId": null,
+        "priceUnit": "",
+        "requiresAgeVerification": false,
+        "isPriceEndsLabel": false,
+        "hasPromotion": true,
+        "isAdvertised": true,
+        "isClearance": false,
+        "isInStoreOnly": false,
+        "isOnlineOnly": false,
+        "isVisible": true,
+        "isPreorderable": false,
+        "isFrenchCompliant": true,
+        "isMarketplace": false,
+        "hasFrenchContent": false,
+        "categoryIds": [
+          "20001",
+          "20367",
+          "474835"
+        ]
+      },
+      {
+        "sku": "15493199",
+        "name": "Moniteur jeu G-Sync DEL HD int. IPS 240 Hz FreeSync GTG 1 ms 27 po UltraGear LG (27GP750-B) - Noir",
+        "shortDescription": "Donnez vie à vos jeux préférés avec ce moniteur de jeu DEL IPS UltraGear de LG. Doté d'une résolution HD intégrale 1080p, ce moniteur de 27 po prend en charge le contenu en résolution très immersive HDR10 avec une précision des couleurs maximale, pour des jeux réalistes. Avec le mode de stabilisation des noirs, vous verrez clairement vos ennemis et pourrez les éliminer, même dans les zones les plus sombres.",
+        "customerRating": 4.5,
+        "customerRatingCount": 14,
+        "customerReviewCount": 14,
+        "productUrl": "/fr-ca/produit/moniteur-jeu-g-sync-del-hd-int-ips-240-hz-freesync-gtg-1-ms-27-po-ultragear-lg-27gp750-b-noir/15493199",
+        "currentRegion": null,
+        "hideSavings": false,
+        "hideSaleEndDate": false,
+        "productType": null,
+        "regularPrice": 499.99,
+        "salePrice": 339.99,
+        "saleEndDate": 1663311599000,
+        "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/154/15493/15493199.jpg",
+        "primaryParentCategoryId": null,
+        "categoryName": "Moniteurs de jeu",
+        "ehf": 4.0,
+        "seoText": "moniteur-jeu-g-sync-del-hd-int-ips-240-hz-freesync-gtg-1-ms-27-po-ultragear-lg-27gp750-b-noir",
+        "sellerId": null,
+        "seller": null,
+        "highResImage": "https://multimedia.bbycastatic.ca/images/common/pictures/noimage1500x1500.jpg",
+        "altLangSeoText": null,
+        "offerId": null,
+        "priceUnit": "",
+        "requiresAgeVerification": false,
+        "isPriceEndsLabel": false,
+        "hasPromotion": true,
+        "isAdvertised": true,
+        "isClearance": false,
+        "isInStoreOnly": false,
+        "isOnlineOnly": false,
+        "isVisible": true,
+        "isPreorderable": false,
+        "isFrenchCompliant": true,
+        "isMarketplace": false,
+        "hasFrenchContent": false,
+        "categoryIds": [
+          "20001",
+          "20367",
+          "474835"
+        ]
+      },
+      {
+        "sku": "14933346",
+        "name": "Moniteur jeu FreeSync DEL IPS FHD 75 Hz 22 po de Samsung/5 ms GTG (LF22T350FHNXZA) - Gris-bleu foncé",
+        "shortDescription": "Que ce soit pour travailler, jouer ou vous divertir, vous profiterez d'images et de scènes claires, lumineuses et réalistes à tout coup sur ce moniteur de jeu de 22 po de Samsung. Avec sa résolution HD intégrale et ses angles de visionnement très larges, il vous permet de plonger facilement dans l'action. Sa technologie FreeSync réduit le déchirement d'image pour des mouvements fluides.",
+        "customerRating": 4.64,
+        "customerRatingCount": 3345,
+        "customerReviewCount": 3345,
+        "productUrl": "/fr-ca/produit/moniteur-jeu-freesync-del-ips-fhd-75-hz-22-po-de-samsung-5-ms-gtg-lf22t350fhnxza-gris-bleu-fonce/14933346",
+        "currentRegion": null,
+        "hideSavings": true,
+        "hideSaleEndDate": true,
+        "productType": null,
+        "regularPrice": 169.99,
+        "salePrice": 169.99,
+        "saleEndDate": null,
+        "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/149/14933/14933346.jpg",
+        "primaryParentCategoryId": null,
+        "categoryName": "Moniteurs de jeu",
+        "ehf": 4.0,
+        "seoText": "moniteur-jeu-freesync-del-ips-fhd-75-hz-22-po-de-samsung-5-ms-gtg-lf22t350fhnxza-gris-bleu-fonce",
+        "sellerId": null,
+        "seller": null,
+        "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/149/14933/14933346.jpg",
+        "altLangSeoText": null,
+        "offerId": null,
+        "priceUnit": "",
+        "requiresAgeVerification": false,
+        "isPriceEndsLabel": false,
+        "hasPromotion": false,
+        "isAdvertised": false,
+        "isClearance": false,
+        "isInStoreOnly": false,
+        "isOnlineOnly": false,
+        "isVisible": true,
+        "isPreorderable": false,
+        "isFrenchCompliant": true,
+        "isMarketplace": false,
+        "hasFrenchContent": false,
+        "categoryIds": [
+          "20001",
+          "20367",
+          "474835"
+        ]
+      },
+      {
+        "sku": "15372257",
+        "name": "Moniteur de jeu DEL AV incurvé FHD 1 ms 165 Hz 27 po Optix de MSI (G27C6) - Noir",
+        "shortDescription": "Profitez de jeux intenses avec des images claires et fluides grâce au moniteur de jeu à DEL de 27 po Optix de MSI. Son écran incurvé de 27 po avec résolution HD intégrale de 1920 x 1080 offre une expérience de visionnement très immersive, tandis que son temps de réponse de 1 ms et taux de rafraîchissement de 165 Hz assurent des jeux fluides. Son angle de visionnement de 178° vous permet de voir l'écran clairement dans plusieurs angles.",
+        "customerRating": 4.45,
+        "customerRatingCount": 11,
+        "customerReviewCount": 11,
+        "productUrl": "/fr-ca/produit/moniteur-de-jeu-del-av-incurve-fhd-1-ms-165-hz-27-po-optix-de-msi-g27c6-noir/15372257",
+        "currentRegion": null,
+        "hideSavings": true,
+        "hideSaleEndDate": true,
+        "productType": null,
+        "regularPrice": 319.99,
+        "salePrice": 319.99,
+        "saleEndDate": null,
+        "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/153/15372/15372257.jpg",
+        "primaryParentCategoryId": null,
+        "categoryName": "Moniteurs de jeu",
+        "ehf": 4.0,
+        "seoText": "moniteur-de-jeu-del-av-incurve-fhd-1-ms-165-hz-27-po-optix-de-msi-g27c6-noir",
+        "sellerId": null,
+        "seller": null,
+        "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/153/15372/15372257.jpg",
+        "altLangSeoText": null,
+        "offerId": null,
+        "priceUnit": "",
+        "requiresAgeVerification": false,
+        "isPriceEndsLabel": false,
+        "hasPromotion": false,
+        "isAdvertised": false,
+        "isClearance": false,
+        "isInStoreOnly": false,
+        "isOnlineOnly": false,
+        "isVisible": true,
+        "isPreorderable": false,
+        "isFrenchCompliant": true,
+        "isMarketplace": false,
+        "hasFrenchContent": false,
+        "categoryIds": [
+          "20001",
+          "20367",
+          "474835"
+        ]
+      },
+      {
+        "sku": "15963025",
+        "name": "Moniteur FreeSync ACL VA FHD 165 Hz 27 po Odyssey G3 de Samsung/1 ms gris-gris (LS27AG320NNXZA)-Noir",
+        "shortDescription": "Plongez dans votre univers de jeu préféré avec le moniteur de jeu FreeSync Odyssey G3 de 24 po de Samsung. Doté d'un écran HD intégrale de 24 po, d'un temps de réponse de 1 ms gris à gris et d'un taux de rafraîchissement de 165 Hz, ce moniteur de jeu affiche des images sans décalage et assure une grande réactivité avec des fréquences d'images fluides et une compensation à faible débit d'images pour une transition impeccable et une expérience de jeu confortable.",
+        "customerRating": 5.0,
+        "customerRatingCount": 4,
+        "customerReviewCount": 4,
+        "productUrl": "/fr-ca/produit/moniteur-freesync-acl-va-fhd-165-hz-27-po-odyssey-g3-de-samsung-1-ms-gris-gris-ls27ag320nnxza-noir/15963025",
+        "currentRegion": null,
+        "hideSavings": true,
+        "hideSaleEndDate": true,
+        "productType": null,
+        "regularPrice": 429.99,
+        "salePrice": 429.99,
+        "saleEndDate": null,
+        "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/159/15963/15963025.jpg",
+        "primaryParentCategoryId": null,
+        "categoryName": "Moniteurs de jeu",
+        "ehf": 4.0,
+        "seoText": "moniteur-freesync-acl-va-fhd-165-hz-27-po-odyssey-g3-de-samsung-1-ms-gris-gris-ls27ag320nnxza-noir",
+        "sellerId": null,
+        "seller": null,
+        "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/159/15963/15963025.jpg",
+        "altLangSeoText": null,
+        "offerId": null,
+        "priceUnit": "",
+        "requiresAgeVerification": false,
+        "isPriceEndsLabel": false,
+        "hasPromotion": false,
+        "isAdvertised": false,
+        "isClearance": false,
+        "isInStoreOnly": false,
+        "isOnlineOnly": false,
+        "isVisible": true,
+        "isPreorderable": false,
+        "isFrenchCompliant": true,
+        "isMarketplace": false,
+        "hasFrenchContent": false,
+        "categoryIds": [
+          "20001",
+          "20367",
+          "474835"
+        ]
+      },
+      {
+        "sku": "15917167",
+        "name": "Moniteur de jeu ACL IPS HD intégrale FreeSync 75 Hz GÀG 1 ms 24 po d'ASUS (VG246H)",
+        "shortDescription": "Transformez votre façon de jouer avec le moniteur de jeu d'ASUS. Il est doté d'un écran de 24 po en HD intégrale et des technologies FreeSync et Extreme Low Motion Blur d'ASUS pour produire des transitions nettes et afficher des jeux fluides. Les fonctions GamePlus et GameVisual améliorent et optimisent vos jeux, pour des heures de divertissement.",
+        "customerRating": 4.71,
+        "customerRatingCount": 309,
+        "customerReviewCount": 309,
+        "productUrl": "/fr-ca/produit/moniteur-de-jeu-acl-ips-hd-integrale-freesync-75-hz-gag-1-ms-24-po-d-asus-vg246h/15917167",
+        "currentRegion": null,
+        "hideSavings": true,
+        "hideSaleEndDate": true,
+        "productType": null,
+        "regularPrice": 229.99,
+        "salePrice": 229.99,
+        "saleEndDate": null,
+        "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/159/15917/15917167.jpg",
+        "primaryParentCategoryId": null,
+        "categoryName": "Moniteurs de jeu",
+        "ehf": 4.0,
+        "seoText": "moniteur-de-jeu-acl-ips-hd-integrale-freesync-75-hz-gag-1-ms-24-po-d-asus-vg246h",
+        "sellerId": null,
+        "seller": null,
+        "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/159/15917/15917167.jpg",
+        "altLangSeoText": null,
+        "offerId": null,
+        "priceUnit": "",
+        "requiresAgeVerification": false,
+        "isPriceEndsLabel": false,
+        "hasPromotion": false,
+        "isAdvertised": false,
+        "isClearance": false,
+        "isInStoreOnly": false,
+        "isOnlineOnly": false,
+        "isVisible": true,
+        "isPreorderable": false,
+        "isFrenchCompliant": true,
+        "isMarketplace": false,
+        "hasFrenchContent": false,
+        "categoryIds": [
+          "20001",
+          "20367",
+          "474835"
+        ]
+      },
+      {
+        "sku": "13819627",
+        "name": "Moniteur de jeu DEL FHD TN G-Sync 0.5 ms gris à gris 165 Hz de 24 po d'ASUS (VG248QG) - Noir",
+        "shortDescription": "Redécouvrez vos jeux avec ce moniteur de jeu HD intégrale de 24 po d'ASUS. Avec la technologie G-SYNC de NVIDIA, un taux de rafraîchissement ultrarapide de 165 Hz et un temps de réponse de 0,5 ms, il affiche des images très fluides avec des détails réalistes. Il inclut un support ergonomique réglable et intègre la technologie Eye Care d'ASUS pour assurer votre confort durant le visionnement.",
+        "customerRating": 4.46,
+        "customerRatingCount": 166,
+        "customerReviewCount": 166,
+        "productUrl": "/fr-ca/produit/moniteur-de-jeu-del-fhd-tn-g-sync-0-5-ms-gris-a-gris-165-hz-de-24-po-d-asus-vg248qg-noir/13819627",
+        "currentRegion": null,
+        "hideSavings": true,
+        "hideSaleEndDate": true,
+        "productType": null,
+        "regularPrice": 249.99,
+        "salePrice": 249.99,
+        "saleEndDate": null,
+        "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/138/13819/13819627.jpg",
+        "primaryParentCategoryId": null,
+        "categoryName": "Moniteurs de jeu",
+        "ehf": 4.0,
+        "seoText": "moniteur-de-jeu-del-fhd-tn-g-sync-0-5-ms-gris-a-gris-165-hz-de-24-po-d-asus-vg248qg-noir",
+        "sellerId": null,
+        "seller": null,
+        "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/138/13819/13819627.jpg",
+        "altLangSeoText": null,
+        "offerId": null,
+        "priceUnit": "",
+        "requiresAgeVerification": false,
+        "isPriceEndsLabel": false,
+        "hasPromotion": false,
+        "isAdvertised": false,
+        "isClearance": false,
+        "isInStoreOnly": false,
+        "isOnlineOnly": false,
+        "isVisible": true,
+        "isPreorderable": false,
+        "isFrenchCompliant": true,
+        "isMarketplace": false,
+        "hasFrenchContent": false,
+        "categoryIds": [
+          "20001",
+          "20367",
+          "474835"
+        ]
+      },
+      {
+        "sku": "15493200",
+        "name": "Moniteur de jeu DEL IPS HD intégrale GTG 5 ms FreeSync 75 Hz 23,8 po de LG (24MP44B-B) - Noir",
+        "shortDescription": "Repoussez les limites de vos jeux de tir à la première personne avec ce moniteur de jeu de LG. L'écran IPS avec résolution HD intégrale 1080p et prise en charge 8 bits de 16,7 millions de couleurs affiche des films et des jeux très détaillés aux couleurs précises. De plus, le stabilisateur des noirs vous permet de mieux voir dans les scènes sombres, donc vous ne manquerez jamais votre ennemi juré caché dans l'ombre.",
+        "customerRating": 3.73,
+        "customerRatingCount": 11,
+        "customerReviewCount": 11,
+        "productUrl": "/fr-ca/produit/moniteur-de-jeu-del-ips-hd-integrale-gtg-5-ms-freesync-75-hz-23-8-po-de-lg-24mp44b-b-noir/15493200",
+        "currentRegion": null,
+        "hideSavings": true,
+        "hideSaleEndDate": true,
+        "productType": null,
+        "regularPrice": 199.99,
+        "salePrice": 199.99,
+        "saleEndDate": null,
+        "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/154/15493/15493200.jpg",
+        "primaryParentCategoryId": null,
+        "categoryName": "Moniteurs de jeu",
+        "ehf": 4.0,
+        "seoText": "moniteur-de-jeu-del-ips-hd-integrale-gtg-5-ms-freesync-75-hz-23-8-po-de-lg-24mp44b-b-noir",
+        "sellerId": null,
+        "seller": null,
+        "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/154/15493/15493200.jpg",
+        "altLangSeoText": null,
+        "offerId": null,
+        "priceUnit": "",
+        "requiresAgeVerification": false,
+        "isPriceEndsLabel": false,
+        "hasPromotion": false,
+        "isAdvertised": false,
+        "isClearance": false,
+        "isInStoreOnly": false,
+        "isOnlineOnly": false,
+        "isVisible": true,
+        "isPreorderable": false,
+        "isFrenchCompliant": true,
+        "isMarketplace": false,
+        "hasFrenchContent": false,
+        "categoryIds": [
+          "20001",
+          "20367",
+          "474835"
+        ]
+      },
+      {
+        "sku": "14716525",
+        "name": "Moniteur jeu incurvé VA DEL DQHD G-Sync GTG 1ms 240Hz 49 po Odyssey G9 Samsung (LC49G95TSSNXZA) -Blc",
+        "shortDescription": "Vos jeux vous en mettront plein la vue sur le moniteur de jeu Odyssey G9 de Samsung. Son écran ultralarge de 49 po et sa résolution DQHD de 5120 x 1440 vous plongeront au coeur de l'action. Son écran incurvé 1000R puissant, son taux de rafraîchissement de 240 Hz, son temps de réponse de 1 ms, sa compatibilité G-Sync et ses fonctions d'imagerie HDR1000 et HDR10+ vous feront profiter d'images plus vraies que nature, immersives et magnifiques.",
+        "customerRating": 3.88,
+        "customerRatingCount": 80,
+        "customerReviewCount": 80,
+        "productUrl": "/fr-ca/produit/moniteur-jeu-incurve-va-del-dqhd-g-sync-gtg-1ms-240hz-49-po-odyssey-g9-samsung-lc49g95tssnxza-blc/14716525",
+        "currentRegion": null,
+        "hideSavings": false,
+        "hideSaleEndDate": false,
+        "productType": null,
+        "regularPrice": 1881.99,
+        "salePrice": 1299.99,
+        "saleEndDate": 1663311599000,
+        "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/147/14716/14716525.jpg",
+        "primaryParentCategoryId": null,
+        "categoryName": "Moniteurs de jeu",
+        "ehf": 14.0,
+        "seoText": "moniteur-jeu-incurve-va-del-dqhd-g-sync-gtg-1ms-240hz-49-po-odyssey-g9-samsung-lc49g95tssnxza-blc",
+        "sellerId": null,
+        "seller": null,
+        "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/147/14716/14716525.jpg",
+        "altLangSeoText": null,
+        "offerId": null,
+        "priceUnit": "",
+        "requiresAgeVerification": false,
+        "isPriceEndsLabel": false,
+        "hasPromotion": true,
+        "isAdvertised": false,
+        "isClearance": false,
+        "isInStoreOnly": false,
+        "isOnlineOnly": false,
+        "isVisible": true,
+        "isPreorderable": false,
+        "isFrenchCompliant": true,
+        "isMarketplace": false,
+        "hasFrenchContent": false,
+        "categoryIds": [
+          "20001",
+          "20367",
+          "474835"
+        ]
+      },
+      {
+        "sku": "15529863",
+        "name": "Moniteur de jeu HD intégrale DEL IPS FreeSync 144 Hz 4 ms g.-g. de 27 po Optix de MSI (G272) - Noir",
+        "shortDescription": "Conquérez les mondes de vos jeux comme jamais auparavant avec ce moniteur de jeu FreeSync Optix de MSI. Son écran DEL IPS de 27 po offre une résolution HD intégrale 1080p, un rapport de contraste statique de 1000:1 et une luminosité de 250 cd/m2 pour afficher des images réalistes avec des détails précis. Avec 2 ports HDMI et 1 port DisplayPort, vous pouvez jumeler une variété de périphériques pris en charge.",
+        "customerRating": 4.71,
+        "customerRatingCount": 7,
+        "customerReviewCount": 7,
+        "productUrl": "/fr-ca/produit/moniteur-de-jeu-hd-integrale-del-ips-freesync-144-hz-4-ms-g-g-de-27-po-optix-de-msi-g272-noir/15529863",
+        "currentRegion": null,
+        "hideSavings": true,
+        "hideSaleEndDate": true,
+        "productType": null,
+        "regularPrice": 289.99,
+        "salePrice": 289.99,
+        "saleEndDate": null,
+        "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/155/15529/15529863.jpg",
+        "primaryParentCategoryId": null,
+        "categoryName": "Moniteurs de jeu",
+        "ehf": 4.0,
+        "seoText": "moniteur-de-jeu-hd-integrale-del-ips-freesync-144-hz-4-ms-g-g-de-27-po-optix-de-msi-g272-noir",
+        "sellerId": null,
+        "seller": null,
+        "highResImage": "https://multimedia.bbycastatic.ca/images/common/pictures/noimage1500x1500.jpg",
+        "altLangSeoText": null,
+        "offerId": null,
+        "priceUnit": "",
+        "requiresAgeVerification": false,
+        "isPriceEndsLabel": false,
+        "hasPromotion": false,
+        "isAdvertised": false,
+        "isClearance": false,
+        "isInStoreOnly": false,
+        "isOnlineOnly": false,
+        "isVisible": true,
+        "isPreorderable": false,
+        "isFrenchCompliant": true,
+        "isMarketplace": false,
+        "hasFrenchContent": false,
+        "categoryIds": [
+          "20001",
+          "20367",
+          "474835"
+        ]
+      },
+      {
+        "sku": "15445750",
+        "name": "Moniteur jeu DEL IPS WQHD 1440p FreeSync GTG 1 ms 165 Hz 31,5 po UltraGear de LG (32GP83B-B) - Noir",
+        "shortDescription": "Profitez de vos jeux et films préférés en haute définition avec le moniteur de jeu WQHD de 31,5 po UltraGear de LG. La résolution 1440p, le rapport de contraste statique de 1000:1, la luminosité de 350 cd/m² et 1,07 milliard de couleurs produisent des images éclatantes qui en mettent plein la vue. Les technologies FreeSync Premium d'AMD et G-Sync de NVIDIA réduisent le flou, le déchirement et les saccades pour produire des images fluides.",
+        "customerRating": 4.58,
+        "customerRatingCount": 19,
+        "customerReviewCount": 19,
+        "productUrl": "/fr-ca/produit/moniteur-jeu-del-ips-wqhd-1440p-freesync-gtg-1-ms-165-hz-31-5-po-ultragear-de-lg-32gp83b-b-noir/15445750",
+        "currentRegion": null,
+        "hideSavings": true,
+        "hideSaleEndDate": true,
+        "productType": null,
+        "regularPrice": 649.99,
+        "salePrice": 649.99,
+        "saleEndDate": null,
+        "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/154/15445/15445750.jpg",
+        "primaryParentCategoryId": null,
+        "categoryName": "Moniteurs de jeu",
+        "ehf": 6.0,
+        "seoText": "moniteur-jeu-del-ips-wqhd-1440p-freesync-gtg-1-ms-165-hz-31-5-po-ultragear-de-lg-32gp83b-b-noir",
+        "sellerId": null,
+        "seller": null,
+        "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/154/15445/15445750.jpg",
+        "altLangSeoText": null,
+        "offerId": null,
+        "priceUnit": "",
+        "requiresAgeVerification": false,
+        "isPriceEndsLabel": false,
+        "hasPromotion": false,
+        "isAdvertised": false,
+        "isClearance": false,
+        "isInStoreOnly": false,
+        "isOnlineOnly": false,
+        "isVisible": true,
+        "isPreorderable": false,
+        "isFrenchCompliant": true,
+        "isMarketplace": false,
+        "hasFrenchContent": false,
+        "categoryIds": [
+          "20001",
+          "20367",
+          "474835"
+        ]
+      },
+      {
+        "sku": "15012647",
+        "name": "Moniteur FreeSync DEL IPS FHD 75 Hz 24 po de Samsung/5 ms gris-gris (LF24T350FHNXZA)-Gris-bleu - BO",
+        "shortDescription": "<p> <strong>Ceci est un produit boîte ouverte certifié par la Geek Squad. Voir ci-dessous pour plus d'information.</strong> </p>Que ce soit pour travailler, jouer ou vous divertir, vous profiterez d'images et de scènes claires, lumineuses et réalistes à tout coup sur ce moniteur de jeu de 24 po de Samsung. Avec sa résolution HD intégrale et ses angles de visionnement très larges, il vous permet de plonger facilement dans l'action. Sa technologie FreeSync réduit le déchirement d'image pour des mouvements fluides.",
+        "customerRating": 0.0,
+        "customerRatingCount": 0,
+        "customerReviewCount": 0,
+        "productUrl": "/fr-ca/produit/moniteur-freesync-del-ips-fhd-75-hz-24-po-de-samsung-5-ms-gris-gris-lf24t350fhnxza-gris-bleu-bo/15012647",
+        "currentRegion": null,
+        "hideSavings": false,
+        "hideSaleEndDate": false,
+        "productType": null,
+        "regularPrice": 169.49,
+        "salePrice": 144.49,
+        "saleEndDate": 1663311599000,
+        "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/150/15012/15012647.jpg",
+        "primaryParentCategoryId": null,
+        "categoryName": "Moniteurs de jeu",
+        "ehf": 4.0,
+        "seoText": "moniteur-freesync-del-ips-fhd-75-hz-24-po-de-samsung-5-ms-gris-gris-lf24t350fhnxza-gris-bleu-bo",
+        "sellerId": null,
+        "seller": null,
+        "highResImage": "https://multimedia.bbycastatic.ca/images/common/pictures/noimage1500x1500.jpg",
+        "altLangSeoText": null,
+        "offerId": null,
+        "priceUnit": "",
+        "requiresAgeVerification": false,
+        "isPriceEndsLabel": false,
+        "hasPromotion": true,
+        "isAdvertised": false,
+        "isClearance": false,
+        "isInStoreOnly": false,
+        "isOnlineOnly": false,
+        "isVisible": true,
+        "isPreorderable": false,
+        "isFrenchCompliant": true,
+        "isMarketplace": false,
+        "hasFrenchContent": false,
+        "categoryIds": [
+          "20001",
+          "20367",
+          "474835"
+        ]
+      },
+      {
+        "sku": "16108296",
+        "name": "Moniteur de jeu DEL FreeSync HD intégrale de 34 po 100 Hz 5 ms gris à gris UltraWide de LG (34WQ650-W) - Blanc",
+        "shortDescription": "Jouez au niveau compétitif comme jamais auparavant avec le moniteur de jeu HD intégrale de 34 po UltraWide de LG. Ce moniteur intègre un écran IPS avec technologie FreeSync d'AMD pour offrir une expérience de jeu fluide avec un taux de rafraîchissement de 100 Hz et un temps de réponse de 5 ms. Il prend en charge la norme VESA DisplayHDR 400 pour offrir des images réalistes alors que son rapport de forme ultra large de 21:9 offre un visionnement incroyable sans scènes cachées.",
+        "customerRating": 5.0,
+        "customerRatingCount": 1,
+        "customerReviewCount": 1,
+        "productUrl": "/fr-ca/produit/moniteur-de-jeu-del-freesync-hd-integrale-de-34-po-100-hz-5-ms-gris-a-gris-ultrawide-de-lg-34wq650-w-blanc/16108296",
+        "currentRegion": null,
+        "hideSavings": true,
+        "hideSaleEndDate": true,
+        "productType": null,
+        "regularPrice": 449.99,
+        "salePrice": 449.99,
+        "saleEndDate": null,
+        "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/161/16108/16108296.jpg",
+        "primaryParentCategoryId": null,
+        "categoryName": "Moniteurs de jeu",
+        "ehf": 6.0,
+        "seoText": "moniteur-de-jeu-del-freesync-hd-integrale-de-34-po-100-hz-5-ms-gris-a-gris-ultrawide-de-lg-34wq650-w-blanc",
+        "sellerId": null,
+        "seller": null,
+        "highResImage": "https://multimedia.bbycastatic.ca/images/common/pictures/noimage1500x1500.jpg",
+        "altLangSeoText": null,
+        "offerId": null,
+        "priceUnit": "",
+        "requiresAgeVerification": false,
+        "isPriceEndsLabel": false,
+        "hasPromotion": false,
+        "isAdvertised": false,
+        "isClearance": false,
+        "isInStoreOnly": false,
+        "isOnlineOnly": false,
+        "isVisible": true,
+        "isPreorderable": false,
+        "isFrenchCompliant": true,
+        "isMarketplace": false,
+        "hasFrenchContent": false,
+        "categoryIds": [
+          "20001",
+          "20367",
+          "474835"
+        ]
+      },
+      {
+        "sku": "14933348",
+        "name": "Moniteur jeu FreeSync DEL IPS FHD 75 Hz 27 po de Samsung/5 ms GTG (LF27T350FHNXZA) - Gris-bleu foncé",
+        "shortDescription": "Que ce soit pour travailler, jouer ou vous divertir, vous profiterez d'images et de scènes claires, lumineuses et réalistes à tout coup sur ce moniteur de jeu de 27 po de Samsung. Avec sa résolution HD intégrale et ses angles de visionnement très larges, il vous permet de plonger facilement dans l'action. Sa technologie FreeSync réduit le déchirement d'image pour des mouvements fluides.",
+        "customerRating": 4.63,
+        "customerRatingCount": 3369,
+        "customerReviewCount": 3369,
+        "productUrl": "/fr-ca/produit/moniteur-jeu-freesync-del-ips-fhd-75-hz-27-po-de-samsung-5-ms-gtg-lf27t350fhnxza-gris-bleu-fonce/14933348",
+        "currentRegion": null,
+        "hideSavings": false,
+        "hideSaleEndDate": false,
+        "productType": null,
+        "regularPrice": 249.99,
+        "salePrice": 199.99,
+        "saleEndDate": 1663311599000,
+        "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/149/14933/14933348.jpg",
+        "primaryParentCategoryId": null,
+        "categoryName": "Moniteurs de jeu",
+        "ehf": 4.0,
+        "seoText": "moniteur-jeu-freesync-del-ips-fhd-75-hz-27-po-de-samsung-5-ms-gtg-lf27t350fhnxza-gris-bleu-fonce",
+        "sellerId": null,
+        "seller": null,
+        "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/149/14933/14933348.jpg",
+        "altLangSeoText": null,
+        "offerId": null,
+        "priceUnit": "",
+        "requiresAgeVerification": false,
+        "isPriceEndsLabel": false,
+        "hasPromotion": true,
+        "isAdvertised": true,
+        "isClearance": false,
+        "isInStoreOnly": false,
+        "isOnlineOnly": false,
+        "isVisible": true,
+        "isPreorderable": false,
+        "isFrenchCompliant": true,
+        "isMarketplace": false,
+        "hasFrenchContent": false,
+        "categoryIds": [
+          "20001",
+          "20367",
+          "474835"
+        ]
+      },
+      {
+        "sku": "14716524",
+        "name": "Moniteur jeu incurvé VA DEL WQHD G-Sync GTG 1ms 240Hz 27 po Odyssey G7 Samsung (LC27G75TQSNXZA) - Nr",
+        "shortDescription": "Améliorez votre arsenal de jeu avec le moniteur de jeu de 27 po Odyssey G7 de Samsung. Les technologies d'écran incurvé 1000R et RapidCurve de 240 Hz et le temps de réponse de 1 ms rendent les jeux immersifs, tandis que les couleurs QLED, le contraste HDR600 et la résolution WQHD affichent des images à couper le souffle. La compatibilité G-Sync et la technologie FreeSync Premium Pro d'AMD assurent une expérience fluide et sans décalage.",
+        "customerRating": 4.42,
+        "customerRatingCount": 1408,
+        "customerReviewCount": 1408,
+        "productUrl": "/fr-ca/produit/moniteur-jeu-incurve-va-del-wqhd-g-sync-gtg-1ms-240hz-27-po-odyssey-g7-samsung-lc27g75tqsnxza-nr/14716524",
+        "currentRegion": null,
+        "hideSavings": false,
+        "hideSaleEndDate": false,
+        "productType": null,
+        "regularPrice": 749.99,
+        "salePrice": 599.99,
+        "saleEndDate": 1663311599000,
+        "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/147/14716/14716524.jpg",
+        "primaryParentCategoryId": null,
+        "categoryName": "Moniteurs de jeu",
+        "ehf": 4.0,
+        "seoText": "moniteur-jeu-incurve-va-del-wqhd-g-sync-gtg-1ms-240hz-27-po-odyssey-g7-samsung-lc27g75tqsnxza-nr",
+        "sellerId": null,
+        "seller": null,
+        "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/147/14716/14716524.jpg",
+        "altLangSeoText": null,
+        "offerId": null,
+        "priceUnit": "",
+        "requiresAgeVerification": false,
+        "isPriceEndsLabel": false,
+        "hasPromotion": true,
+        "isAdvertised": false,
+        "isClearance": false,
+        "isInStoreOnly": false,
+        "isOnlineOnly": false,
+        "isVisible": true,
+        "isPreorderable": false,
+        "isFrenchCompliant": true,
+        "isMarketplace": false,
+        "hasFrenchContent": false,
+        "categoryIds": [
+          "20001",
+          "20367",
+          "474835"
+        ]
+      },
+      {
+        "sku": "15732100",
+        "name": "Moniteur DEL HD intégrale AV GTG 1 ms 75 Hz de 23,8 po d'Acer (KA242Y ABI) - Noir",
+        "shortDescription": "Le moniteur de 23,8 po d’Acer est conçu pour vous faire vivre une expérience de visionnement remarquable. Doté d’un panneau à alignement vertical de 23,8 po et d’une résolution HD intégrale, il affiche des détails précis et des couleurs éclatantes dans toutes les scènes. La technologie Flicker-Free avec filtre BlueLight protège vos yeux de la fatigue causée par une exposition prolongée.",
+        "customerRating": 4.62,
+        "customerRatingCount": 454,
+        "customerReviewCount": 454,
+        "productUrl": "/fr-ca/produit/moniteur-del-hd-integrale-av-gtg-1-ms-75-hz-de-23-8-po-d-acer-ka242y-abi-noir/15732100",
+        "currentRegion": null,
+        "hideSavings": false,
+        "hideSaleEndDate": false,
+        "productType": null,
+        "regularPrice": 199.99,
+        "salePrice": 149.99,
+        "saleEndDate": 1663311599000,
+        "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/157/15732/15732100.jpg",
+        "primaryParentCategoryId": null,
+        "categoryName": "Moniteurs de jeu",
+        "ehf": 4.0,
+        "seoText": "moniteur-del-hd-integrale-av-gtg-1-ms-75-hz-de-23-8-po-d-acer-ka242y-abi-noir",
+        "sellerId": null,
+        "seller": null,
+        "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/157/15732/15732100.jpg",
+        "altLangSeoText": null,
+        "offerId": null,
+        "priceUnit": "",
+        "requiresAgeVerification": false,
+        "isPriceEndsLabel": false,
+        "hasPromotion": true,
+        "isAdvertised": true,
+        "isClearance": false,
+        "isInStoreOnly": false,
+        "isOnlineOnly": false,
+        "isVisible": true,
+        "isPreorderable": false,
+        "isFrenchCompliant": true,
+        "isMarketplace": false,
+        "hasFrenchContent": false,
+        "categoryIds": [
+          "20001",
+          "20367",
+          "474835"
+        ]
+      },
+      {
+        "sku": "15956824",
+        "name": "Moniteur de jeu HD intégrale DEL AV FreeSync GTG 1 ms 165 Hz 23,8 po TUF d'ASUS (VG247Q1A)",
+        "shortDescription": "Améliorez votre performance de jeu avec le moniteur de jeu HD intégrale FreeSync de 23,8 po TUF d'ASUS. Il a un taux de rafraîchissement ultrarapide de 165 Hz (prend en charge 144 Hz) qui élimine tous les ralentissements et les décalages, pour des jeux fluides. Sa technologie FreeSync minimise le déchirement, pour des mouvements fluides, et la technologie Extreme Low Motion Blur d'ASUS offre un temps de réponse de 1 ms pour des images nettes.",
+        "customerRating": 3.0,
+        "customerRatingCount": 1,
+        "customerReviewCount": 1,
+        "productUrl": "/fr-ca/produit/moniteur-de-jeu-hd-integrale-del-av-freesync-gtg-1-ms-165-hz-23-8-po-tuf-d-asus-vg247q1a/15956824",
+        "currentRegion": null,
+        "hideSavings": true,
+        "hideSaleEndDate": true,
+        "productType": null,
+        "regularPrice": 239.99,
+        "salePrice": 239.99,
+        "saleEndDate": null,
+        "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/159/15956/15956824.jpg",
+        "primaryParentCategoryId": null,
+        "categoryName": "Moniteurs de jeu",
+        "ehf": 4.0,
+        "seoText": "moniteur-de-jeu-hd-integrale-del-av-freesync-gtg-1-ms-165-hz-23-8-po-tuf-d-asus-vg247q1a",
+        "sellerId": null,
+        "seller": null,
+        "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/159/15956/15956824.jpg",
+        "altLangSeoText": null,
+        "offerId": null,
+        "priceUnit": "",
+        "requiresAgeVerification": false,
+        "isPriceEndsLabel": false,
+        "hasPromotion": false,
+        "isAdvertised": false,
+        "isClearance": false,
+        "isInStoreOnly": false,
+        "isOnlineOnly": false,
+        "isVisible": true,
+        "isPreorderable": false,
+        "isFrenchCompliant": true,
+        "isMarketplace": false,
+        "hasFrenchContent": false,
+        "categoryIds": [
+          "20001",
+          "20367",
+          "474835"
+        ]
+      },
+      {
+        "sku": "15262568",
+        "name": "Moniteur FreeSync DEL incurvé VA WQHD 165 Hz 34 po Odyssey G5 Samsung/1 ms GTG (LC34G55TWWNXZA)-Noir",
+        "shortDescription": "Explorez la totalité du champ de bataille comme jamais auparavant avec le moniteur de jeu DEL VA de 34 po Odyssey G5 de Samsung. Doté d'un très grand écran incurvé 1000R avec résolution WQHD, il affiche chaque moment d'action avec une qualité d'image époustouflante. Avec la technologie HDR10, vous verrez des détails optimisés dans les zones claires et ombragées de votre jeu.",
+        "customerRating": 4.45,
+        "customerRatingCount": 1260,
+        "customerReviewCount": 1260,
+        "productUrl": "/fr-ca/produit/moniteur-freesync-del-incurve-va-wqhd-165-hz-34-po-odyssey-g5-samsung-1-ms-gtg-lc34g55twwnxza-noir/15262568",
+        "currentRegion": null,
+        "hideSavings": true,
+        "hideSaleEndDate": true,
+        "productType": null,
+        "regularPrice": 699.99,
+        "salePrice": 699.99,
+        "saleEndDate": null,
+        "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/152/15262/15262568.jpg",
+        "primaryParentCategoryId": null,
+        "categoryName": "Moniteurs de jeu",
+        "ehf": 6.0,
+        "seoText": "moniteur-freesync-del-incurve-va-wqhd-165-hz-34-po-odyssey-g5-samsung-1-ms-gtg-lc34g55twwnxza-noir",
+        "sellerId": null,
+        "seller": null,
+        "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/152/15262/15262568.jpg",
+        "altLangSeoText": null,
+        "offerId": null,
+        "priceUnit": "",
+        "requiresAgeVerification": false,
+        "isPriceEndsLabel": false,
+        "hasPromotion": false,
+        "isAdvertised": false,
+        "isClearance": false,
+        "isInStoreOnly": false,
+        "isOnlineOnly": false,
+        "isVisible": true,
+        "isPreorderable": false,
+        "isFrenchCompliant": true,
+        "isMarketplace": false,
+        "hasFrenchContent": false,
+        "categoryIds": [
+          "20001",
+          "20367",
+          "474835"
+        ]
+      }
+    ],
+    "paths": [
+      {
+        "name": "Moniteurs de jeu",
+        "value": "",
+        "selectPath": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu",
+        "unselectPath": "",
+        "type": "Category"
+      }
+    ],
+    "facets": [
+      {
+        "name": "Offres courantes",
+        "systemName": "currentoffers0enrchstring",
+        "count": 6,
+        "filters": [
+          {
+            "name": "En solde",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bcurrentoffers0enrchstring%3AEn+solde",
+            "count": 285,
+            "isSelected": false
+          },
+          {
+            "name": "Aubaines Choc",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bcurrentoffers0enrchstring%3AAubaines+Choc",
+            "count": 5,
+            "isSelected": false
+          },
+          {
+            "name": "Exclusivité Best Buy",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bcurrentoffers0enrchstring%3AExclusivit%C3%A9+Best+Buy",
+            "count": 2,
+            "isSelected": false
+          },
+          {
+            "name": "Remis à neuf",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bcurrentoffers0enrchstring%3ARemis+%C3%A0+neuf",
+            "count": 88,
+            "isSelected": false
+          },
+          {
+            "name": "Boîte ouverte",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bcurrentoffers0enrchstring%3ABo%C3%AEte+ouverte",
+            "count": 135,
+            "isSelected": false
+          },
+          {
+            "name": "En ligne seulement",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bcurrentoffers0enrchstring%3AEn+ligne+seulement",
+            "count": 373,
+            "isSelected": false
+          }
+        ],
+        "isMultiSelect": true,
+        "order": 0
+      },
+      {
+        "name": "État",
+        "systemName": "status0enrchstring",
+        "count": 2,
+        "filters": [
+          {
+            "name": "Quoi de neuf",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bstatus0enrchstring%3AQuoi+de+neuf",
+            "count": 271,
+            "isSelected": false
+          },
+          {
+            "name": "Précommandez",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bstatus0enrchstring%3APr%C3%A9commandez",
+            "count": 3,
+            "isSelected": false
+          }
+        ],
+        "isMultiSelect": true,
+        "order": 1
+      },
+      {
+        "name": "Rabais",
+        "systemName": "discount0enrchstring",
+        "count": 6,
+        "filters": [
+          {
+            "name": "60% de rabais ou plu",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bdiscount0enrchstring%3A60%25+de+rabais+ou+plu",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "50% de rabais ou plu",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bdiscount0enrchstring%3A50%25+de+rabais+ou+plu",
+            "count": 11,
+            "isSelected": false
+          },
+          {
+            "name": "40% de rabais ou plu",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bdiscount0enrchstring%3A40%25+de+rabais+ou+plu",
+            "count": 26,
+            "isSelected": false
+          },
+          {
+            "name": "30% de rabais ou plu",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bdiscount0enrchstring%3A30%25+de+rabais+ou+plu",
+            "count": 64,
+            "isSelected": false
+          },
+          {
+            "name": "20% de rabais ou plus",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bdiscount0enrchstring%3A20%25+de+rabais+ou+plus",
+            "count": 147,
+            "isSelected": false
+          },
+          {
+            "name": "Tous les articles à prix réduit",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bdiscount0enrchstring%3ATous+les+articles+%C3%A0+prix+r%C3%A9duit",
+            "count": 285,
+            "isSelected": false
+          }
+        ],
+        "isMultiSelect": true,
+        "order": 2
+      },
+      {
+        "name": "Marque",
+        "systemName": "brandName",
+        "count": 31,
+        "filters": [
+          {
+            "name": "SAMSUNG",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BbrandName%3ASAMSUNG",
+            "count": 103,
+            "isSelected": false
+          },
+          {
+            "name": "ASUS",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BbrandName%3AASUS",
+            "count": 99,
+            "isSelected": false
+          },
+          {
+            "name": "HP",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BbrandName%3AHP",
+            "count": 12,
+            "isSelected": false
+          },
+          {
+            "name": "ACER",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BbrandName%3AACER",
+            "count": 89,
+            "isSelected": false
+          },
+          {
+            "name": "LG ELECTRONICS",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BbrandName%3ALG+ELECTRONICS",
+            "count": 86,
+            "isSelected": false
+          },
+          {
+            "name": "SONY",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BbrandName%3ASONY",
+            "count": 2,
+            "isSelected": false
+          },
+          {
+            "name": "LENOVO",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BbrandName%3ALENOVO",
+            "count": 22,
+            "isSelected": false
+          },
+          {
+            "name": "DELL",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BbrandName%3ADELL",
+            "count": 54,
+            "isSelected": false
+          },
+          {
+            "name": "MSI",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BbrandName%3AMSI",
+            "count": 34,
+            "isSelected": false
+          },
+          {
+            "name": "ALIENWARE",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BbrandName%3AALIENWARE",
+            "count": 5,
+            "isSelected": false
+          },
+          {
+            "name": "EPSON",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BbrandName%3AEPSON",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "BENQ",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BbrandName%3ABENQ",
+            "count": 27,
+            "isSelected": false
+          },
+          {
+            "name": "HYPERX",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BbrandName%3AHYPERX",
+            "count": 2,
+            "isSelected": false
+          },
+          {
+            "name": "PHILIPS",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BbrandName%3APHILIPS",
+            "count": 2,
+            "isSelected": false
+          },
+          {
+            "name": "LG",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BbrandName%3ALG",
+            "count": 18,
+            "isSelected": false
+          },
+          {
+            "name": "HAJAAN",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BbrandName%3AHAJAAN",
+            "count": 4,
+            "isSelected": false
+          },
+          {
+            "name": "HUAWEI",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BbrandName%3AHUAWEI",
+            "count": 2,
+            "isSelected": false
+          },
+          {
+            "name": "AOC",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BbrandName%3AAOC",
+            "count": 18,
+            "isSelected": false
+          },
+          {
+            "name": "VIEWSONIC",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BbrandName%3AVIEWSONIC",
+            "count": 20,
+            "isSelected": false
+          },
+          {
+            "name": "ANGEL POS",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BbrandName%3AANGEL+POS",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "AOPEN",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BbrandName%3AAOPEN",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "BENQ ZOWIE",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BbrandName%3ABENQ+ZOWIE",
+            "count": 4,
+            "isSelected": false
+          },
+          {
+            "name": "GIGA-BYTE",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BbrandName%3AGIGA-BYTE",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "GIGABYTE",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BbrandName%3AGIGABYTE",
+            "count": 2,
+            "isSelected": false
+          },
+          {
+            "name": "NEC",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BbrandName%3ANEC",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "PRIMECABLES",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BbrandName%3APRIMECABLES",
+            "count": 2,
+            "isSelected": false
+          },
+          {
+            "name": "QIAN",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BbrandName%3AQIAN",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "SCEPTRE",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BbrandName%3ASCEPTRE",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "VIZTA",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BbrandName%3AVIZTA",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "XIAOMI",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BbrandName%3AXIAOMI",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "YEYIAN",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BbrandName%3AYEYIAN",
+            "count": 8,
+            "isSelected": false
+          }
+        ],
+        "isMultiSelect": true,
+        "order": 3
+      },
+      {
+        "name": "Prix",
+        "systemName": "price200to1200",
+        "count": 8,
+        "filters": [
+          {
+            "name": "moins de 200 $",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bprice200to1200%3Amoins+de+200+%24",
+            "count": 74,
+            "isSelected": false
+          },
+          {
+            "name": "200 à 299,99 $",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bprice200to1200%3A200+%C3%A0+299%2C99+%24",
+            "count": 144,
+            "isSelected": false
+          },
+          {
+            "name": "300 à 399,99 $",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bprice200to1200%3A300+%C3%A0+399%2C99+%24",
+            "count": 121,
+            "isSelected": false
+          },
+          {
+            "name": "400 à 599,99 $",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bprice200to1200%3A400+%C3%A0+599%2C99+%24",
+            "count": 145,
+            "isSelected": false
+          },
+          {
+            "name": "600 à 799,99 $",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bprice200to1200%3A600+%C3%A0+799%2C99+%24",
+            "count": 48,
+            "isSelected": false
+          },
+          {
+            "name": "800 à 999,99 $",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bprice200to1200%3A800+%C3%A0+999%2C99+%24",
+            "count": 24,
+            "isSelected": false
+          },
+          {
+            "name": "1000 à 1199,99 $",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bprice200to1200%3A1000+%C3%A0+1199%2C99+%24",
+            "count": 22,
+            "isSelected": false
+          },
+          {
+            "name": "1200 $ et plus",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bprice200to1200%3A1200+%24+et+plus",
+            "count": 46,
+            "isSelected": false
+          }
+        ],
+        "isMultiSelect": true,
+        "order": 4
+      },
+      {
+        "name": "Résolution",
+        "systemName": "monitorresolution0enrchstring",
+        "count": 6,
+        "filters": [
+          {
+            "name": "Ultra HD 4K (3840 x 2160)",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bmonitorresolution0enrchstring%3AUltra+HD+4K+%283840+x+2160%29",
+            "count": 71,
+            "isSelected": false
+          },
+          {
+            "name": "3440 x 1440",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bmonitorresolution0enrchstring%3A3440+x+1440",
+            "count": 31,
+            "isSelected": false
+          },
+          {
+            "name": "2560 x 1440",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bmonitorresolution0enrchstring%3A2560+x+1440",
+            "count": 106,
+            "isSelected": false
+          },
+          {
+            "name": "2560 x 1080",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bmonitorresolution0enrchstring%3A2560+x+1080",
+            "count": 12,
+            "isSelected": false
+          },
+          {
+            "name": "HD intégrale (1920 x 1080)",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bmonitorresolution0enrchstring%3AHD+int%C3%A9grale+%281920+x+1080%29",
+            "count": 240,
+            "isSelected": false
+          },
+          {
+            "name": "Autres résolutions",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bmonitorresolution0enrchstring%3AAutres+r%C3%A9solutions",
+            "count": 28,
+            "isSelected": false
+          }
+        ],
+        "isMultiSelect": true,
+        "order": 5
+      },
+      {
+        "name": "Format de l'écran",
+        "systemName": "lcdmonitorscreensize0enrchrange",
+        "count": 4,
+        "filters": [
+          {
+            "name": "22 po et moins",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Blcdmonitorscreensize0enrchrange%3A22+po+et+moins",
+            "count": 29,
+            "isSelected": false
+          },
+          {
+            "name": "23 - 24 po",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Blcdmonitorscreensize0enrchrange%3A23+-+24+po",
+            "count": 107,
+            "isSelected": false
+          },
+          {
+            "name": "25 - 29 po",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Blcdmonitorscreensize0enrchrange%3A25+-+29+po",
+            "count": 216,
+            "isSelected": false
+          },
+          {
+            "name": "30 po et plus",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Blcdmonitorscreensize0enrchrange%3A30+po+et+plus",
+            "count": 161,
+            "isSelected": false
+          }
+        ],
+        "isMultiSelect": true,
+        "order": 6
+      },
+      {
+        "name": "Temps de réponse (gris-à-gris)",
+        "systemName": "monitorresponsetimegtg0enrchrange",
+        "count": 4,
+        "filters": [
+          {
+            "name": "Moins de 2 millisecondes",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bmonitorresponsetimegtg0enrchrange%3AMoins+de+2+millisecondes",
+            "count": 208,
+            "isSelected": false
+          },
+          {
+            "name": "2 à 3,9 millisecondes",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bmonitorresponsetimegtg0enrchrange%3A2+%C3%A0+3%2C9+millisecondes",
+            "count": 19,
+            "isSelected": false
+          },
+          {
+            "name": "4 à 5,9 millisecondes",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bmonitorresponsetimegtg0enrchrange%3A4+%C3%A0+5%2C9+millisecondes",
+            "count": 172,
+            "isSelected": false
+          },
+          {
+            "name": "6 à 9,9 millisecondes",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bmonitorresponsetimegtg0enrchrange%3A6+%C3%A0+9%2C9+millisecondes",
+            "count": 3,
+            "isSelected": false
+          }
+        ],
+        "isMultiSelect": true,
+        "order": 7
+      },
+      {
+        "name": "Fréquence de rafraîchissement (Hz)",
+        "systemName": "custom0refreshrate",
+        "count": 11,
+        "filters": [
+          {
+            "name": "360",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bcustom0refreshrate%3A360",
+            "count": 3,
+            "isSelected": false
+          },
+          {
+            "name": "280",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bcustom0refreshrate%3A280",
+            "count": 4,
+            "isSelected": false
+          },
+          {
+            "name": "240",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bcustom0refreshrate%3A240",
+            "count": 35,
+            "isSelected": false
+          },
+          {
+            "name": "170",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bcustom0refreshrate%3A170",
+            "count": 9,
+            "isSelected": false
+          },
+          {
+            "name": "165",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bcustom0refreshrate%3A165",
+            "count": 128,
+            "isSelected": false
+          },
+          {
+            "name": "155",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bcustom0refreshrate%3A155",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "144",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bcustom0refreshrate%3A144",
+            "count": 84,
+            "isSelected": false
+          },
+          {
+            "name": "120",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bcustom0refreshrate%3A120",
+            "count": 4,
+            "isSelected": false
+          },
+          {
+            "name": "100",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bcustom0refreshrate%3A100",
+            "count": 3,
+            "isSelected": false
+          },
+          {
+            "name": "75",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bcustom0refreshrate%3A75",
+            "count": 108,
+            "isSelected": false
+          },
+          {
+            "name": "60",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bcustom0refreshrate%3A60",
+            "count": 95,
+            "isSelected": false
+          }
+        ],
+        "isMultiSelect": true,
+        "order": 8
+      },
+      {
+        "name": "Technologie Adaptative Sync",
+        "systemName": "synctechnology0enrchstring",
+        "count": 2,
+        "filters": [
+          {
+            "name": "G-SYNC",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bsynctechnology0enrchstring%3AG-SYNC",
+            "count": 104,
+            "isSelected": false
+          },
+          {
+            "name": "FreeSync",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bsynctechnology0enrchstring%3AFreeSync",
+            "count": 328,
+            "isSelected": false
+          }
+        ],
+        "isMultiSelect": true,
+        "order": 9
+      },
+      {
+        "name": "Format d’image",
+        "systemName": "custom0aspectratio",
+        "count": 4,
+        "filters": [
+          {
+            "name": "16:9",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bcustom0aspectratio%3A16%3A9",
+            "count": 381,
+            "isSelected": false
+          },
+          {
+            "name": "16:10",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bcustom0aspectratio%3A16%3A10",
+            "count": 2,
+            "isSelected": false
+          },
+          {
+            "name": "21:9",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bcustom0aspectratio%3A21%3A9",
+            "count": 54,
+            "isSelected": false
+          },
+          {
+            "name": "32:9",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bcustom0aspectratio%3A32%3A9",
+            "count": 8,
+            "isSelected": false
+          }
+        ],
+        "isMultiSelect": true,
+        "order": 10
+      },
+      {
+        "name": "Caractéristiques",
+        "systemName": "monitorfeatures0enrchstring",
+        "count": 9,
+        "filters": [
+          {
+            "name": "Ultralarge",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bmonitorfeatures0enrchstring%3AUltralarge",
+            "count": 62,
+            "isSelected": false
+          },
+          {
+            "name": "Moniteurs incurvé",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bmonitorfeatures0enrchstring%3AMoniteurs+incurv%C3%A9",
+            "count": 130,
+            "isSelected": false
+          },
+          {
+            "name": "Caméra Web intégré",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bmonitorfeatures0enrchstring%3ACam%C3%A9ra+Web+int%C3%A9gr%C3%A9",
+            "count": 3,
+            "isSelected": false
+          },
+          {
+            "name": "Tailles de supports",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bmonitorfeatures0enrchstring%3ATailles+de+supports",
+            "count": 393,
+            "isSelected": false
+          },
+          {
+            "name": "Ajustement de la hauteur",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bmonitorfeatures0enrchstring%3AAjustement+de+la+hauteur",
+            "count": 271,
+            "isSelected": false
+          },
+          {
+            "name": "Inclinaison",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bmonitorfeatures0enrchstring%3AInclinaison",
+            "count": 427,
+            "isSelected": false
+          },
+          {
+            "name": "Pivot",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bmonitorfeatures0enrchstring%3APivot",
+            "count": 190,
+            "isSelected": false
+          },
+          {
+            "name": "Rotation en mode Portrait",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bmonitorfeatures0enrchstring%3ARotation+en+mode+Portrait",
+            "count": 271,
+            "isSelected": false
+          },
+          {
+            "name": "Haut-parleurs intégrés",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bmonitorfeatures0enrchstring%3AHaut-parleurs+int%C3%A9gr%C3%A9s",
+            "count": 182,
+            "isSelected": false
+          }
+        ],
+        "isMultiSelect": true,
+        "order": 11
+      },
+      {
+        "name": "Type de panneau",
+        "systemName": "custom0paneltechnology",
+        "count": 5,
+        "filters": [
+          {
+            "name": "IPS",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bcustom0paneltechnology%3AIPS",
+            "count": 238,
+            "isSelected": false
+          },
+          {
+            "name": "VA",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bcustom0paneltechnology%3AVA",
+            "count": 159,
+            "isSelected": false
+          },
+          {
+            "name": "TN",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bcustom0paneltechnology%3ATN",
+            "count": 36,
+            "isSelected": false
+          },
+          {
+            "name": "OLED",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bcustom0paneltechnology%3AOLED",
+            "count": 3,
+            "isSelected": false
+          },
+          {
+            "name": "PLS",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bcustom0paneltechnology%3APLS",
+            "count": 1,
+            "isSelected": false
+          }
+        ],
+        "isMultiSelect": true,
+        "order": 12
+      },
+      {
+        "name": "Vendu et expédié par",
+        "systemName": "soldandshippedby0enrchstring",
+        "count": 2,
+        "filters": [
+          {
+            "name": "Best Buy",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bsoldandshippedby0enrchstring%3ABest+Buy",
+            "count": 257,
+            "isSelected": false
+          },
+          {
+            "name": "Vendeur sur la Place de marché",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Bsoldandshippedby0enrchstring%3AVendeur+sur+la+Place+de+march%C3%A9",
+            "count": 367,
+            "isSelected": false
+          }
+        ],
+        "isMultiSelect": true,
+        "order": 13
+      },
+      {
+        "name": "Vendeur",
+        "systemName": "sellerName",
+        "count": 56,
+        "filters": [
+          {
+            "name": "BestBuyCanada",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3ABestBuyCanada",
+            "count": 257,
+            "isSelected": false
+          },
+          {
+            "name": "Deal Targets",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3ADeal+Targets",
+            "count": 55,
+            "isSelected": false
+          },
+          {
+            "name": "PRO OB",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3APRO+OB",
+            "count": 35,
+            "isSelected": false
+          },
+          {
+            "name": "Best Buy Business",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3ABest+Buy+Business",
+            "count": 28,
+            "isSelected": false
+          },
+          {
+            "name": "iSanek",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3AiSanek",
+            "count": 26,
+            "isSelected": false
+          },
+          {
+            "name": "Tech Outlet Center",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3ATech+Outlet+Center",
+            "count": 21,
+            "isSelected": false
+          },
+          {
+            "name": "Aero Malls Inc.",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3AAero+Malls+Inc.",
+            "count": 19,
+            "isSelected": false
+          },
+          {
+            "name": "Hoengager",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3AHoengager",
+            "count": 19,
+            "isSelected": false
+          },
+          {
+            "name": "Acer Canada Re-certified",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3AAcer+Canada+Re-certified",
+            "count": 15,
+            "isSelected": false
+          },
+          {
+            "name": "IT Renew",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3AIT+Renew",
+            "count": 14,
+            "isSelected": false
+          },
+          {
+            "name": "Official MSI Gaming Store",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3AOfficial+MSI+Gaming+Store",
+            "count": 12,
+            "isSelected": false
+          },
+          {
+            "name": "Reventech",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3AReventech",
+            "count": 11,
+            "isSelected": false
+          },
+          {
+            "name": "Lenovo Canada",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3ALenovo+Canada",
+            "count": 7,
+            "isSelected": false
+          },
+          {
+            "name": "Liq Electro",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3ALiq+Electro",
+            "count": 7,
+            "isSelected": false
+          },
+          {
+            "name": "TODO BEST",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3ATODO+BEST",
+            "count": 7,
+            "isSelected": false
+          },
+          {
+            "name": "Vertex Nano Technology",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3AVertex+Nano+Technology",
+            "count": 7,
+            "isSelected": false
+          },
+          {
+            "name": "Memory Express",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3AMemory+Express",
+            "count": 6,
+            "isSelected": false
+          },
+          {
+            "name": "TecDale Canada",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3ATecDale+Canada",
+            "count": 6,
+            "isSelected": false
+          },
+          {
+            "name": "DCR",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3ADCR",
+            "count": 5,
+            "isSelected": false
+          },
+          {
+            "name": "GreenStarDeals",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3AGreenStarDeals",
+            "count": 5,
+            "isSelected": false
+          },
+          {
+            "name": "Official AOC Authorized Reseller",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3AOfficial+AOC+Authorized+Reseller",
+            "count": 5,
+            "isSelected": false
+          },
+          {
+            "name": "Official Viewsonic Authorized Reseller",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3AOfficial+Viewsonic+Authorized+Reseller",
+            "count": 5,
+            "isSelected": false
+          },
+          {
+            "name": "Vuugo",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3AVuugo",
+            "count": 5,
+            "isSelected": false
+          },
+          {
+            "name": "ITFactory",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3AITFactory",
+            "count": 4,
+            "isSelected": false
+          },
+          {
+            "name": "Gadget Source",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3AGadget+Source",
+            "count": 3,
+            "isSelected": false
+          },
+          {
+            "name": "Memory-King",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3AMemory-King",
+            "count": 3,
+            "isSelected": false
+          },
+          {
+            "name": "TECHtorney",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3ATECHtorney",
+            "count": 3,
+            "isSelected": false
+          },
+          {
+            "name": "HUAWEI Canada Official Reseller Store",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3AHUAWEI+Canada+Official+Reseller+Store",
+            "count": 2,
+            "isSelected": false
+          },
+          {
+            "name": "KJ Distribution",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3AKJ+Distribution",
+            "count": 2,
+            "isSelected": false
+          },
+          {
+            "name": "PC Discount",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3APC+Discount",
+            "count": 2,
+            "isSelected": false
+          },
+          {
+            "name": "SOLUTIONS 4 ALL",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3ASOLUTIONS+4+ALL",
+            "count": 2,
+            "isSelected": false
+          },
+          {
+            "name": "SaveOnMany",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3ASaveOnMany",
+            "count": 2,
+            "isSelected": false
+          },
+          {
+            "name": "AB Cellular",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3AAB+Cellular",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "AMBER COMPUTER & ELECTRONICS",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3AAMBER+COMPUTER+%26+ELECTRONICS",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "Angel POS",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3AAngel+POS",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "Best Computers",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3ABest+Computers",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "Bluetecs Canada",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3ABluetecs+Canada",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "Canada Now",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3ACanada+Now",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "Compute4Less Corp",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3ACompute4Less+Corp",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "DOT CA OUTLET",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3ADOT+CA+OUTLET",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "DanJub Store Inc",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3ADanJub+Store+Inc",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "Hyper Mega Electronics",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3AHyper+Mega+Electronics",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "JB Home & Kitchen Appliances",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3AJB+Home+%26+Kitchen+Appliances",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "MPC COMPUTERS",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3AMPC+COMPUTERS",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "Mastertronics, Inc.",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3AMastertronics%2C+Inc.",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "Mike's Computer Shop",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3AMike%27s+Computer+Shop",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "Newseed",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3ANewseed",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "RenewedIT",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3ARenewedIT",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "Singh Electronics",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3ASingh+Electronics",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "Skadi Electronics",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3ASkadi+Electronics",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "Stoneforged Technology",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3AStoneforged+Technology",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "Tech Lab Marketers",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3ATech+Lab+Marketers",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "TopSku",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3ATopSku",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "ULTIMAXX CANADA",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3AULTIMAXX+CANADA",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "Wintronic Computers Plus",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3AWintronic+Computers+Plus",
+            "count": 1,
+            "isSelected": false
+          },
+          {
+            "name": "Xiaomi Authorized Reseller",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3BsellerName%3AXiaomi+Authorized+Reseller",
+            "count": 1,
+            "isSelected": false
+          }
+        ],
+        "isMultiSelect": true,
+        "order": 14
+      },
+      {
+        "name": "Cote d'évaluation de la clientèle",
+        "systemName": "averageoveralluserrating0enrchrange",
+        "count": 5,
+        "filters": [
+          {
+            "name": "5",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Baverageoveralluserrating0enrchrange%3A5",
+            "count": 51,
+            "isSelected": false
+          },
+          {
+            "name": "4",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Baverageoveralluserrating0enrchrange%3A4",
+            "count": 179,
+            "isSelected": false
+          },
+          {
+            "name": "3",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Baverageoveralluserrating0enrchrange%3A3",
+            "count": 41,
+            "isSelected": false
+          },
+          {
+            "name": "2",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Baverageoveralluserrating0enrchrange%3A2",
+            "count": 6,
+            "isSelected": false
+          },
+          {
+            "name": "1",
+            "path": "category%3AOrdinateurs+et+tablettes%3Bcategory%3AMoniteurs%3Bcategory%3AMoniteurs+de+jeu%3Baverageoveralluserrating0enrchrange%3A1",
+            "count": 5,
+            "isSelected": false
+          }
+        ],
+        "isMultiSelect": true,
+        "order": 15
+      }
+    ],
+    "lastSearchDate": "2022-09-13T17:16:31.117774",
+    "relatedQueries": null,
+    "sscs": [
+      
+    ],
+    "relatedCategories": null,
+    "selectedFacets": [
+      
+    ],
+    "resources": null,
+    "redirectUrl": null,
+    "promotions": null,
+    "hasBrandStore": false,
+    "productStatusCode": "200",
+    "sscStatusCode": null,
+    "Brand": "BestBuyCanada",
+    "breadcrumb": [
+      
+    ]
+  }

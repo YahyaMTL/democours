@@ -1,0 +1,29 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid">
+      <a class="navbar-brand" >Formulaires</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse nav-tabs row" id="navbarNav">
+        <ul class="navbar-nav d-flex">
+          <li class="nav-item">
+            <a class="nav-link" [routerLink]="['/javascript']" routerLinkActive="active" >Javascript</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" [routerLink]="['/formsmodule']" routerLinkActive="active" >Form Module</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" [routerLink]="['/formgroup']" routerLinkActive="active" >Forms Group</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" [routerLink]="['/personages']" routerLinkActive="active" >Personnages</a>
+          </li>
+          <li class="nav-item ms-auto">
+            <a class="nav-link" [routerLink]="['/login']" routerLinkActive="active" >Login</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+<router-outlet></router-outlet>
+

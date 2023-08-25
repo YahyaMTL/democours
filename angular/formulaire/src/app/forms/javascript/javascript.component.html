@@ -1,0 +1,109 @@
+<div class="container">
+    <form>
+        <div class="row">
+            <div class="col-4">
+                <div class="form-label">Personnage</div>
+                <input class="form-control"  type="text"  [(ngModel)]="personage.name">
+            </div>
+            <div class="col-4">
+                <div class="form-label">Health</div>
+                <input class="form-control"  type="text"  [(ngModel)]="personage.health">
+                <div class="form-label">Current Health</div>
+                <input class="form-control"  type="text"  [(ngModel)]="personage.currentHealth">
+            </div>
+            <div class="col-4">
+                <div class="form-label">Money</div>
+                <input class="form-control"  type="text"  [(ngModel)]="personage.money">
+                <div class="form-label">Level</div>
+                <input class="form-control"  type="text"  [(ngModel)]="personage.level">
+            </div>
+        </div>
+        <div class="row">
+            <div class="form-label">Statistics</div>
+            <div class="col-2">
+                <div class="input-group mb-3">
+                    <span class="input-group-text">STR</span>
+                    <input type="text" class="form-control" aria-label="Statistics"  [(ngModel)]="personage.statistics.str">
+                </div>
+            </div>
+            <div class="col-2">
+                <div class="input-group mb-3">
+                    <span class="input-group-text">DEX</span>
+                    <input type="text" class="form-control" aria-label="Statistics"  [(ngModel)]="personage.statistics.dex">
+                </div>
+            </div>
+            <div class="col-2">
+                <div class="input-group mb-3">
+                    <span class="input-group-text">CON</span>
+                    <input type="text" class="form-control" aria-label="Statistics"  [(ngModel)]="personage.statistics.con">
+                </div>
+            </div>
+            <div class="col-2">
+                <div class="input-group mb-3">
+                    <span class="input-group-text">WIS</span>
+                    <input type="text" class="form-control" aria-label="Statistics"  [(ngModel)]="personage.statistics.wis">
+                </div>
+            </div>
+            <div class="col-2">
+                <div class="input-group mb-3">
+                    <span class="input-group-text">INT</span>
+                    <input type="text" class="form-control" aria-label="Statistics"  [(ngModel)]="personage.statistics.int">
+                </div>
+            </div>
+            <div class="col-2">
+                <div class="input-group mb-3">
+                    <span class="input-group-text">CHA</span>
+                    <input type="text" class="form-control" aria-label="Statistics"  [(ngModel)]="personage.statistics.cha">
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-3">
+                <div class="form-label">
+                    Race
+                </div>
+                <select class="form-control" [(ngModel)]="personage.race" name="race">
+                    <option value="{{item}}" *ngFor="let item of typeDeRaces">{{eRace[item]}}</option>
+                </select>
+            </div>
+            <div class="col-3">
+                <div class="form-label">Class</div>
+                <input class="form-control"  type="text"  [(ngModel)]="personage.class">
+            </div>
+            <div class="col-3">
+                <div class="form-label">Sub Class</div>
+                <input class="form-control"  type="text"  [(ngModel)]="personage.subclass">
+            </div>
+            <div class="col-3">
+                <div class="form-label">Alignment</div>
+                <input class="form-control"  type="text"  [(ngModel)]="personage.alignment" placeholder="Gauche ou droite?">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-3">
+                Put image Here
+            </div>
+            <div class="col-9">
+                <div class="form-label">
+                    Histoire
+                </div>
+                <textarea name="background" [(ngModel)]="personage.synopsis" class="form-control mt-3" cols="30"
+                    rows="5"></textarea>
+            </div>
+        </div>
+        <div class="input-group my-3">
+            <span class="input-group-text">Image URL</span>
+            <input type="text" class="form-control" aria-label="Statistics"  [(ngModel)]="personage.statistics.cha">
+        </div>
+        <br>
+        <button class="btn btn-outline-primary mt-3" [disabled]="!is_valid" (click)="ajoutePersonage()">Ajouter</button>
+    </form>
+</div>
+
+ <!-- 
+    {
+  "money": 0,
+  "level": 0,
+  "image": "string",
+}
+ -->
